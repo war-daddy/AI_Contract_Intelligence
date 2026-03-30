@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pgvector
+pymupdf
+openai
+celery
+redis
+PyJWT
+pydantic-settings
+psycopg2-binary
+python-multipart
